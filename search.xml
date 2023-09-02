@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>What&#39;s Bool</title>
+      <link href="/2023/09/01/Hexo-Theme-Snail/"/>
+      <url>/2023/09/01/Hexo-Theme-Snail/</url>
+      
+        <content type="html"><![CDATA[<h1 id="What’s-Bool"><a href="#What’s-Bool" class="headerlink" title="What’s Bool?"></a>What’s Bool?</h1><p>Meet Bool, your child’s future companion, mentor, and friend. We understand the unique challenges faced by parents of autistic children and the crucial role of support, education, and companionship in their development. That’s why we’ve created Bool – a revolutionary companion robot designed with your child’s well-being in mind.</p><p><img src="snail.png" alt="hexo-theme-snail"></p><h2 id="Why-Bool"><a href="#Why-Bool" class="headerlink" title="Why Bool?"></a>Why Bool?</h2><p>Bool is not just a robot; it’s a friend. Its name, pronounced like “ball,” reflects its spherical design and approachable nature. Bool is here to provide a world of possibilities for your child:</p><ul><li><p><strong>Companionship</strong>: Bool is your child’s constant companion, offering comfort and friendship whenever needed.</p></li><li><p><strong>Rehabilitation Training</strong>: With professional rehabilitation programs tailored to your child’s unique needs, Bool assists in achieving developmental milestones.</p></li><li><p><strong>Educational Support</strong>: Bool is equipped to help your child with school curriculum tasks, making learning engaging and enjoyable.</p></li><li><p><strong>Emotional Connection</strong>: Bool is designed to understand and respond to your child’s emotions, fostering a sense of trust and security.</p></li></ul><h2 id="Join-the-Bool-Revolution"><a href="#Join-the-Bool-Revolution" class="headerlink" title="Join the Bool Revolution"></a>Join the Bool Revolution</h2><p>We invite you to be a part of the Bool revolution. If you’re interested in providing your child with the support and companionship they deserve, please leave your email and credit card information below. Rest assured, your information will be kept secure and used exclusively for notifying you about Bool’s development progress and availability.</p><!-- Start of the Form --><p><form id="boolForm">  <label for="email">Email:</label>  <input type="email" id="email" name="email" required><br><br>  <label for="creditCard">Credit Card:</label>  <input type="text" id="creditCard" name="creditCard" required><br><br>  <input type="submit" value="Submit"></form><br><!-- End of the Form --></p><h2 id="We-Care-About-Your-Privacy"><a href="#We-Care-About-Your-Privacy" class="headerlink" title="We Care About Your Privacy"></a>We Care About Your Privacy</h2><p>We take your privacy seriously. Your data is important to us, and we will handle it with the utmost care. We will only use your information to keep you informed about Bool’s journey. You can trust us to respect your privacy.</p><p>Bool is not just a robot; it’s a promise of support, education, and friendship for your child. Join us in making a difference in your child’s life. Together, we can unlock a brighter future.</p><!-- JavaScript to Handle Form Submission --><script>  document.getElementById("boolForm").addEventListener("submit", function (event) {    event.preventDefault(); // Prevent the default form submission    const formData = new FormData(event.target); // Get form data    const userData = Object.fromEntries(formData); // Convert form data to object    console.log(userData); // Print user data (you can replace this with your backend logic)    // You can send this user data to your backend for further processing  });</script><h2 id="License"><a href="#License" class="headerlink" title="License"></a>License</h2><p>Apache License 2.0 Copyright(c) 2018-2020 <a href="https://github.com/dusign" target="_blank" rel="noopener">Dusign</a>   </p><p><a href="https://github.com/dusign/hexo-theme-snail" target="_blank" rel="noopener">hexo-theme-snail</a> is derived from <a href="https://github.com/Huxpro/huxpro.github.io" target="_blank" rel="noopener">Huxpro</a> Apache License 2.0. Copyright (c) 2015-2020 Huxpro</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> our products </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> companion robot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
